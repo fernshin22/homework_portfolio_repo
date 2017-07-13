@@ -1,0 +1,116 @@
+	h1 {
+			text-align: center;
+			font-family: helvetica;
+		}
+	h2 {
+			font-family: helvetica;
+
+		}
+
+	img[src*="images/avatar.png"] {
+			float: right;
+			top: 100px;
+			max-height: 150px;
+			background: #d5d5d5;
+			border-style: solid;
+			border-color: black;
+			border-width: thin;
+			padding: 30px;
+			margin: 30px;
+
+
+		}
+	nav {	
+			text-align: center;
+
+		}
+	span {
+			font-style: italic;
+			text-decoration: none;
+
+	}
+	
+	body {
+			margin: 100px;
+			padding: 50px;
+			border-top-color: black;
+			border-top-width: 6px;
+			border-bottom: black;
+			border-bottom-width: 6px;
+			border-bottom-style: solid;
+			border-top-style: solid;
+			background: #eaeaea;
+		}
+
+	footer {
+			text-align: center;
+			margin: 50px;
+		}
+
+	h3 {
+			font-family: helvetica;
+			margin-top: 60px;
+
+		}
+
+	a  {
+			color:black;
+			font-family: helvetica;
+			font-weight: bold;
+		}
+
+	p  {
+			margin-bottom: 50px;
+			font-size: 16px;
+		}
+
+	li {	
+			padding: 20px;
+
+		}
+
+	.awesome {
+			font-weight: bold;
+		}
+	.webdev {
+			font-weight: bold;
+			font-size: 18px;
+			font-family: helvetica;
+		}
+
+	img[src*="images/relaxr_deliverable.png"] {
+
+	 		border: solid;
+	 		border-width: thin;
+	 		padding: 5px;
+
+		}
+	img[src*="images/citipix_deliverable.png"] {
+
+	 		border: solid;
+	 		border-width: thin;
+	 		padding: 5px;
+
+		}
+	img[src*="images/startup_matchmaker_deliverable.png"] {
+
+	 		border: solid;
+	 		border-width: thin;
+	 		padding: 5px;
+
+		}
+	.relaxr {
+		font-family: helvetica;
+		font-style: normal;
+		font-size: 13px;
+	}
+
+
+
+
+
+
+	/** Questions: Better way to make the active navigation link italicised with no underline? How do i move the avatar image up?
+;
+
+	
